@@ -1,3 +1,3 @@
 # Python
-#learning python
-#from scratch
+## `learning python`
+## `from scratch`
